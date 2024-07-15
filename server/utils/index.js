@@ -23,7 +23,7 @@ export const createJWT = (res,userId) => {
 
     res.cookie("token",token,{ // it is set the cookie by above created token with the name of the "token"
         httpOnly:true,
-        secure:process.env.NODE_ENV !== "development", // secure:true when we at "production" phase
+        secure:true, // secure:true when we at "production" phase
         sameSite:"none", // prevent CSRF attack
         // prevents the browser from sending the cookie along with cross-site requests, which helps prevent cross-site request forgery (CSRF) attacks.
         //  (Note: The comment suggests changing this to "none" when deploying the app, likely because of specific requirements for cross-origin requests.)
