@@ -53,17 +53,9 @@ The **Cloud-Based Task Manager** is an innovative platform designed to enhance t
 - **Authentication**: JWT
 - **File Storage**: Firebase Storage
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
 ## 📧 Contact
 
-For any inquiries, please contact [your_email@example.com](mailto:your_email@example.com).
+For any inquiries, please contact [tirthpatel4822@gmail.com](mailto:tirthpatel4822@gmail.com).
 
 ## 🔗 Project Link
 
