@@ -1,5 +1,9 @@
 # 🌐 Cloud-Based Task Manager
 
+[![GitHub stars](https://img.shields.io/github/stars/T1rth1/Cloud-Based-Task-Management-App)](https://github.com/T1rth1/Cloud-Based-Task-Management-App/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/T1rth1/Cloud-Based-Task-Management-App)](https://github.com/T1rth1/Cloud-Based-Task-Management-App/network)
+[![GitHub issues](https://img.shields.io/github/issues/T1rth1/Cloud-Based-Task-Management-App)](https://github.com/T1rth1/Cloud-Based-Task-Management-App/issues)
+
 The **Cloud-Based Task Manager** is an innovative platform designed to enhance team efficiency and organization. Leveraging the MERN stack and modern frontend technologies, this solution provides a seamless experience for administrators and users, fostering collaboration and productivity.
 
 ## 🚀 Features
