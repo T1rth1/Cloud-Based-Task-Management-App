@@ -53,6 +53,8 @@ The **Cloud-Based Task Manager** is an innovative platform designed to enhance t
 - **Authentication**: JWT
 - **File Storage**: Firebase Storage
 
+## 📸 Screenshots
+
 ## 📧 Contact
 
 For any inquiries, please contact [tirthpatel4822@gmail.com](mailto:tirthpatel4822@gmail.com).
