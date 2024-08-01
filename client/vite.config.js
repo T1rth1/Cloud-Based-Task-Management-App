@@ -6,5 +6,8 @@ export default defineConfig({
   plugins: [react()],
   build: {
     chunkSizeWarningLimit: 1000, // Increase the limit to 1000 kB
+    rollupOptions: {
+      external: ['recharts']
+    }
   },
 })
