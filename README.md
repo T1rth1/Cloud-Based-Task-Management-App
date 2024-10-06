@@ -116,16 +116,15 @@ Particular User Operations :
 3) Notifications based on the task has been assigned to that particular user :
 ![Screenshot 2024-10-06 120317](https://github.com/user-attachments/assets/bd419a67-79ff-4c1b-816f-882cd7d2f8e6)
 5) see the activity of the task in which he/she is there(Open Task) and  post the activity with different icons:
+![Screenshot 2024-10-06 120658](https://github.com/user-attachments/assets/be2220e7-8e50-4823-82e4-07c597b21375)
 ![Screenshot (859)](https://github.com/user-attachments/assets/f7d2d90f-1af2-4169-b34d-58c6fc4083bd)
 
 
-![Screenshot 2024-10-06 120658](https://github.com/user-attachments/assets/be2220e7-8e50-4823-82e4-07c597b21375)
-7) see other task's activity but can not participate in that task's activity and timeline
+7) see other task's details but can not participate in that task's activity and timeline
 ![Screenshot 2024-10-06 120514](https://github.com/user-attachments/assets/e43842db-a8f6-4307-a5d9-b86a9a6fe682)
 
 ![Screenshot 2024-10-06 120523](https://github.com/user-attachments/assets/448924c2-728e-4106-a949-8851b88441aa)
 8) Logout :
-![Screenshot 2024-10-06 120640](https://github.com/user-attachments/assets/1a70112f-1455-47e7-ac38-de7a9cbc74c8)
 
 ![Screenshot 2024-10-06 120736](https://github.com/user-attachments/assets/aa05a471-c41f-43a7-8d86-6b488945a13d)
 ![Screenshot 2024-10-06 120802](https://github.com/user-attachments/assets/f1e68b0d-13e7-4601-bff4-1063075d7503)
