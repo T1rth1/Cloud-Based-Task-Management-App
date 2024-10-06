@@ -66,41 +66,41 @@ Admin Operations :
    Total Task and Chart by Priority
 ![Screenshot 2024-10-06 114528](https://github.com/user-attachments/assets/59e61106-e4b9-46ee-bac7-26d1f6d23718)
 
-![Screenshot 2024-10-06 114540](https://github.com/user-attachments/assets/408144a6-70e0-403f-8793-5687aeec91d6)
     All Users with their tasks and also latest 10 users
-![Screenshot 2024-10-06 114553](https://github.com/user-attachments/assets/b1271d29-5a38-4940-9e60-412a7245afe9)
+![Screenshot 2024-10-06 114540](https://github.com/user-attachments/assets/408144a6-70e0-403f-8793-5687aeec91d6)
 3) All Tasks
    Board View
-![Screenshot 2024-10-06 114608](https://github.com/user-attachments/assets/93ad3bc4-143d-43e2-97ac-a1551521f0a5)
+![Screenshot 2024-10-06 114553](https://github.com/user-attachments/assets/b1271d29-5a38-4940-9e60-412a7245afe9)
     List View
-![Screenshot 2024-10-06 114648](https://github.com/user-attachments/assets/7983d075-c852-4339-b4a7-9c836302b9cb)
+![Screenshot 2024-10-06 114608](https://github.com/user-attachments/assets/93ad3bc4-143d-43e2-97ac-a1551521f0a5)
 4) Add Task(assign priority,assign task to users,task date and Add Assets) :
+![Screenshot 2024-10-06 114648](https://github.com/user-attachments/assets/7983d075-c852-4339-b4a7-9c836302b9cb)
 ![Screenshot 2024-10-06 114658](https://github.com/user-attachments/assets/25dda485-df39-46f5-9f03-78cf966afa88)
 
-![Screenshot 2024-10-06 115202](https://github.com/user-attachments/assets/6a128d1a-7405-4a41-ade8-3d66b2493893)
 5) Add Sub Task : 
+![Screenshot 2024-10-06 115202](https://github.com/user-attachments/assets/6a128d1a-7405-4a41-ade8-3d66b2493893)
+6) After assigning the task Notification to users which is their in that particular task
 ![Screenshot 2024-10-06 115218](https://github.com/user-attachments/assets/e08ff9c6-7906-4e43-8416-cfa351f848a7)
 
-6) After assigning the task Notification to users which is their in that particular task
 ![Screenshot 2024-10-06 115228](https://github.com/user-attachments/assets/482a8d60-e982-4a77-9b74-d4e54aa38ced)
 
+7) Completed,In Progress,To Do Task 
 ![Screenshot 2024-10-06 115246](https://github.com/user-attachments/assets/a21141f8-a2d9-47fa-95fd-a4cf33725880)
 
-7) Completed,In Progress,To Do Task 
+8) Add New User :
 ![Screenshot 2024-10-06 115335](https://github.com/user-attachments/assets/4876cc5d-d0bd-4aba-b2ab-dcf90176b0d4)
 
-8) Add New User :
+9) user's password by default is the email of that particular user..after user can change their password
 ![Screenshot 2024-10-06 115348](https://github.com/user-attachments/assets/929be784-9ed8-485d-8a1f-b0812f5d9120)
 
-9) user's password by default is the email of that particular user..after user can change their password
-![Screenshot 2024-10-06 115407](https://github.com/user-attachments/assets/7f11ee30-8cfa-4c3f-b426-46b53ba5896a)
 10) Admin can Activate and Deactivate user's account :
-![Screenshot 2024-10-06 115417](https://github.com/user-attachments/assets/fe414803-37ce-45e6-8284-9fd180d418a0)
+![Screenshot 2024-10-06 115407](https://github.com/user-attachments/assets/7f11ee30-8cfa-4c3f-b426-46b53ba5896a)
 11) Admin can delete and edit user's information :
-![Screenshot 2024-10-06 115632](https://github.com/user-attachments/assets/2e5f1e3e-b3da-4857-b4f6-d5966ac64706)
+![Screenshot 2024-10-06 115417](https://github.com/user-attachments/assets/fe414803-37ce-45e6-8284-9fd180d418a0)
 12) Trash Task :
-![Screenshot 2024-10-06 120212](https://github.com/user-attachments/assets/c188c01c-ba1f-47c4-af06-bdb61790dcb2)
+![Screenshot 2024-10-06 115632](https://github.com/user-attachments/assets/2e5f1e3e-b3da-4857-b4f6-d5966ac64706)
 13) Can Restore Task : 
+![Screenshot 2024-10-06 120212](https://github.com/user-attachments/assets/c188c01c-ba1f-47c4-af06-bdb61790dcb2)
 ![Screenshot 2024-10-06 115642](https://github.com/user-attachments/assets/2a016bbe-b72d-4776-9fff-f77dc5cdcfb6)
 ![Screenshot 2024-10-06 115701](https://github.com/user-attachments/assets/cefd82a8-a6ce-47f4-adfe-86dad75002d0)
 
