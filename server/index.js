@@ -16,7 +16,7 @@ const app = express();
 
 app.use(
     cors({
-        origin:["http://localhost:5173","http://localhost:3000","https://taassklyy.netlify.app","https://beamish-crepe-a3c2a6.netlify.app"],
+        origin:["http://localhost:5173","http://localhost:3000","https://taassklyy.netlify.app","https://beamish-crepe-a3c2a6.netlify.app","https://heroic-caramel-187896.netlify.app"],
         methods: ["GET", "POST", "DELETE", "PUT"],
         credentials:true,
     }),
