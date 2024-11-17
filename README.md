@@ -209,4 +209,4 @@ For any inquiries, please contact [tirthpatel4822@gmail.com](mailto:tirthpatel48
 
 ## 🔗 Project Link
 
-[GitHub Repository](https://github.com/T1rth1/Cloud-Based-Task-Management-App)
+[[GitHub Repository](https://github.com/T1rth1/Cloud-Based-Task-Management-App)](https://melodious-heliotrope-af4380.netlify.app/log-in)
